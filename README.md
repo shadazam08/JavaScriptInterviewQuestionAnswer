@@ -4,7 +4,7 @@
 
 | No. | Questions                                                                                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [What are the possible ways to create objects in JavaScript](#What are the possible ways to create objects in JavaScript) |
+| 1   | What are the possible ways to create objects in JavaScript#What are the possible ways to create objects in JavaScript |
 
 
 1.  ### What are the possible ways to create objects in JavaScript
