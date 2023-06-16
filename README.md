@@ -5,8 +5,10 @@
 | No. | Questions                                                                                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [What are the possible ways to create objects in JavaScript](#What-are-the-possible-ways-to-create-objects-in-JavaScript) |
+| 2   | [What is prototype chain](#What-is-prototype-chain)                                                                       |
+| 3   | [What is the difference between Call, Apply and Bind](#What-is-the-difference-between-Call-Apply-and-Bind)                |
 
 
 1.  ### What are the possible ways to create objects in JavaScript
-    There are many ways to create objects in javascript as below
-    1.  **Object constructor:**
+2.  ### What is prototype chain
+3.  ### What is the difference between Call, Apply and Bind
